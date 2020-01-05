@@ -3,7 +3,7 @@ let movies = [
       "title": "The Shawshank Redemption",
       "year": 1994,
       "director": "Frank Darabont",
-      "duration": "2h 22min",
+      "duration": "2h 22min", 
       "genre": [
         "Crime",
         "Drama"
@@ -36,10 +36,10 @@ let movies = [
       "title": "The Dark Knight",
       "year": 2008,
       "director": "Christopher Nolan",
-      "duration": "2h 32min",
-      "genre": [
-        "Action",
-        "Crime",
+            "duration": "2h 32min",
+            "genre": [
+              "Action",
+              "Crime",
         "Drama",
         "Thriller"
       ],
